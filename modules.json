@@ -1,0 +1,20 @@
+[
+  {
+    "id": "react-hooks-basics",
+    "title": "Understanding React Hooks",
+    "description": "Learn the fundamentals of React Hooks and how to use them in your applications",
+    "image": "https://raw.githubusercontent.com/yourusername/offtutor-modules/main/react-hooks-basics/cover.png",
+    "difficulty": "Beginner",
+    "estimatedTime": 45,
+    "version": 1
+  },
+  {
+    "id": "javascript-promises",
+    "title": "JavaScript Promises and Async/Await",
+    "description": "Master asynchronous programming in JavaScript",
+    "image": "https://raw.githubusercontent.com/yourusername/offtutor-modules/main/javascript-promises/cover.png",
+    "difficulty": "Intermediate",
+    "estimatedTime": 60,
+    "version": 1
+  }
+]

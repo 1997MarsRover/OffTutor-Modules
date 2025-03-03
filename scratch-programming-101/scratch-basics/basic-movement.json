@@ -1,0 +1,38 @@
+{
+  "id": "basic-movement",
+  "type": "EXERCISE",
+  "content": {
+    "title": "Basic Movement Commands",
+    "description": "In this exercise, you'll learn how to make sprites move using Scratch's motion blocks.",
+    "instructions": "Follow these steps to create a sprite that moves when you press arrow keys:",
+    "steps": [
+      {
+        "title": "Step 1: Add a sprite",
+        "instruction": "Choose a sprite from the library or create your own.",
+        "hint": "Click the 'Choose a Sprite' button at the bottom of the sprite panel."
+      },
+      {
+        "title": "Step 2: Add event blocks",
+        "instruction": "Add four 'when key pressed' blocks from the Events category - one for each arrow key.",
+        "hint": "Select the Events category (yellow) and drag out the 'when key pressed' block four times. Set each to a different arrow key."
+      },
+      {
+        "title": "Step 3: Add motion blocks",
+        "instruction": "For each key press event, add a 'move 10 steps' or 'point in direction' block.",
+        "hint": "For up arrow, use 'point in direction 0' followed by 'move 10 steps'. For right arrow, use 'point in direction 90' followed by 'move 10 steps', etc."
+      },
+      {
+        "title": "Step 4: Test your program",
+        "instruction": "Click the green flag and use arrow keys to move your sprite.",
+        "hint": "If your sprite moves off-screen, add a 'if on edge, bounce' block from the Motion category."
+      }
+    ],
+    "checkpoints": [
+      "Added a sprite to the project",
+      "Created four 'when key pressed' event blocks for arrow keys",
+      "Added appropriate motion blocks to each event",
+      "Sprite moves in the correct direction when arrow keys are pressed"
+    ],
+    "challengeExtension": "Add a 'glide' effect instead of instant movement, or make the sprite change appearance when moving in different directions."
+  }
+}

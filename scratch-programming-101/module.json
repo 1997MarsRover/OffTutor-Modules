@@ -1,0 +1,94 @@
+{
+  "id": "scratch-programming-101",
+  "title": "Scratch Programming for Beginners",
+  "description": "Learn how to create interactive stories, games, and animations with Scratch, a visual programming language designed for beginners.",
+  "image": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/cover.png",
+  "difficulty": "Beginner",
+  "estimatedTime": 180,
+  "submodules": [
+    {
+      "id": "scratch-basics",
+      "title": "Getting Started with Scratch",
+      "order": 1,
+      "lessons": [
+        {
+          "id": "scratch-intro",
+          "title": "Introduction to Scratch",
+          "order": 1,
+          "type": "SLIDE",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-basics/scratch-intro.json"
+        },
+        {
+          "id": "scratch-interface",
+          "title": "Understanding the Scratch Interface",
+          "order": 2,
+          "type": "VIDEO",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-basics/scratch-interface.json"
+        },
+        {
+          "id": "first-sprite",
+          "title": "Creating Your First Sprite",
+          "order": 3,
+          "type": "MARKDOWN",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-basics/first-sprite.json"
+        },
+        {
+          "id": "basic-movement",
+          "title": "Basic Movement Commands",
+          "order": 4,
+          "type": "EXERCISE",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-basics/basic-movement.json"
+        },
+        {
+          "id": "scratch-basics-quiz",
+          "title": "Scratch Basics Quiz",
+          "order": 5,
+          "type": "TEST",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-basics/scratch-basics-quiz.json"
+        }
+      ]
+    },
+    {
+      "id": "scratch-programming",
+      "title": "Programming Concepts in Scratch",
+      "order": 2,
+      "lessons": [
+        {
+          "id": "loops-intro",
+          "title": "Introduction to Loops",
+          "order": 1,
+          "type": "SLIDE",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/loops-intro.json"
+        },
+        {
+          "id": "conditional-blocks",
+          "title": "Using Conditional Blocks",
+          "order": 2,
+          "type": "VIDEO",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/conditional-blocks.json"
+        },
+        {
+          "id": "variables",
+          "title": "Working with Variables",
+          "order": 3,
+          "type": "MARKDOWN",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/variables.json"
+        },
+        {
+          "id": "simple-game",
+          "title": "Building a Simple Game",
+          "order": 4,
+          "type": "EXERCISE",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/simple-game.json"
+        },
+        {
+          "id": "programming-concepts-quiz",
+          "title": "Programming Concepts Quiz",
+          "order": 5,
+          "type": "TEST",
+          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/programming-concepts-quiz.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "scratch-basics-quiz",
+  "type": "TEST",
+  "content": {
+    "title": "Scratch Basics Quiz",
+    "description": "Test your knowledge of basic Scratch concepts.",
+    "passingScore": 80,
+    "timeLimit": 600,
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multipleChoice",
+        "question": "Which area of the Scratch interface displays your running project?",
+        "options": [
+          "Code Area",
+          "Stage",
+          "Sprite List",
+          "Block Palette"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The Stage is the area in the top-right that shows your running project."
+      },
+      {
+        "id": "q2",
+        "type": "multipleChoice",
+        "question": "Which block category contains movement-related commands?",
+        "options": [
+          "Looks",
+          "Sound",
+          "Motion",
+          "Events"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Motion blocks (colored blue) contain all movement-related commands for sprites."
+      },
+      {
+        "id": "q3",
+        "type": "trueFalse",
+        "question": "In Scratch, you can have multiple sprites in a single project.",
+        "correctAnswer": true,
+        "explanation": "Yes, a Scratch project can contain multiple sprites, each with its own scripts."
+      },
+      {
+        "id": "q4",
+        "type": "multipleChoice",
+        "question": "What happens when you click the green flag in Scratch?",
+        "options": [
+          "The current sprite is deleted",
+          "The project starts running",
+          "A new sprite is created",
+          "The project is saved"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The green flag is used to start running the project, activating all scripts that begin with a 'when green flag clicked' block."
+      },
+      {
+        "id": "q5",
+        "type": "multipleSelect",
+        "question": "Which of the following are ways to add a sprite in Scratch? (Select all that apply)",
+        "options": [
+          "Choose from library",
+          "Paint a new sprite",
+          "Upload an image",
+          "Install from app store"
+        ],
+        "correctAnswers": [0, 1, 2],
+        "explanation": "You can add sprites from the library, paint them yourself, or upload images. There is no 'app store' in Scratch."
+      }
+    ]
+  }
+}

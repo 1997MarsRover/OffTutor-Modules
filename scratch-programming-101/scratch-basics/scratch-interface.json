@@ -1,0 +1,29 @@
+{
+  "id": "scratch-interface",
+  "type": "VIDEO",
+  "content": {
+    "title": "Understanding the Scratch Interface",
+    "description": "This video explains the different parts of the Scratch editor and how to navigate around the interface.",
+    "videoUrl": "https://youtube.com/embed/OAx_6-wdslM",
+    "duration": 420,
+    "transcriptUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-basics/scratch-interface-transcript.txt",
+    "chapters": [
+      {
+        "title": "The Stage Area",
+        "timestamp": "0:00"
+      },
+      {
+        "title": "Sprite List",
+        "timestamp": "1:25"
+      },
+      {
+        "title": "Block Categories",
+        "timestamp": "3:10"
+      },
+      {
+        "title": "Code Area",
+        "timestamp": "5:30"
+      }
+    ]
+  }
+}

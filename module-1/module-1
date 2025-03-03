@@ -1,0 +1,58 @@
+{
+  "moduleId": "react-hooks-basics",
+  "title": "Understanding React Hooks",
+  "description": "Learn the fundamentals of React Hooks and how to use them in your applications",
+  "image": "https://raw.githubusercontent.com/yourusername/offtutor-modules/main/react-hooks-basics/cover.png",
+  "difficulty": "Beginner",
+  "estimatedTime": 45,
+  "version": 1,
+  "lessons": [
+    {
+      "id": "react-hooks-intro",
+      "title": "Introduction to React Hooks",
+      "order": 1,
+      "type": "MARKDOWN",
+      "content": {
+        "sections": [
+          {
+            "type": "heading",
+            "level": 1,
+            "content": "Introduction to React Hooks"
+          },
+          {
+            "type": "paragraph",
+            "content": "React Hooks were introduced in React 16.8 as a way to use state and other React features without writing a class component."
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "What are Hooks?"
+          },
+          {
+            "type": "paragraph",
+            "content": "Hooks are functions that let you \"hook into\" React state and lifecycle features from function components. They don't work inside classes — they let you use React without classes."
+          },
+          {
+            "type": "code",
+            "language": "jsx",
+            "content": "import React, { useState } from 'react';\n\nfunction Example() {\n  // Declare a new state variable, which we'll call \"count\"\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>You clicked {count} times</p>\n      <button onClick={() => setCount(count + 1)}>\n        Click me\n      </button>\n    </div>\n  );\n}"
+          },
+          {
+            "type": "heading",
+            "level": 2,
+            "content": "Basic Hooks"
+          },
+          {
+            "type": "list",
+            "style": "unordered",
+            "items": [
+              "useState - For managing state in functional components",
+              "useEffect - For handling side effects",
+              "useContext - For consuming context in a cleaner way"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

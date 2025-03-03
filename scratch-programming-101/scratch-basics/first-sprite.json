@@ -1,0 +1,8 @@
+{
+  "id": "first-sprite",
+  "type": "MARKDOWN",
+  "content": {
+    "title": "Creating Your First Sprite",
+    "markdown": "# Creating Your First Sprite in Scratch\n\nIn Scratch, characters and objects are called **sprites**. Let's learn how to create and customize your first sprite!\n\n## Adding a New Sprite\n\nTo add a new sprite to your project:\n\n1. Click the **Choose a Sprite** button at the bottom-right of the Sprite List area\n2. Select one of the following options:\n   - **Paint**: Draw your own sprite\n   - **Library**: Choose from Scratch's collection of sprites\n   - **Upload**: Use an image from your computer\n   - **Surprise**: Get a random sprite\n   - **Camera**: Take a photo with your webcam\n\n## Customizing Your Sprite\n\nOnce you have a sprite, you can:\n\n- **Resize it**: Use the Grow and Shrink tools in the top toolbar\n- **Rotate it**: Click on the Rotate tool and adjust the direction\n- **Change its costume**: Click on the Costumes tab to modify how your sprite looks\n- **Add effects**: Use the Looks blocks to add color effects, change visibility, etc.\n\n## Naming Your Sprite\n\nIt's good practice to give your sprite a descriptive name:\n\n1. Click on the sprite in the Sprite List\n2. Click on the \"i\" information button\n3. Type a new name in the text field\n\n## Try It Yourself\n\nCreate a cat sprite and rename it to \"Player\". Then try changing its size and rotation!"
+  }
+}

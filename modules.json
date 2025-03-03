@@ -1,14 +1,13 @@
 [
-  {
-    "id": "1",
-    "title": "Introduction to JavaScript",
-    "description": "Learn the basics of JavaScript programming language",
-    "image": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3",
-    "difficulty": "Beginner",
-    "estimatedTime": 120,
-    "tags": ["Programming", "Web Development", "JavaScript"],
-    "downloaded": true
-  },
+{
+  "id": "scratch-programming-101",
+  "title": "Scratch Programming for Beginners",
+  "description": "Learn how to create interactive stories, games, and animations with Scratch.",
+  "image": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/cover.png",
+  "difficulty": "Beginner",
+  "estimatedTime": 180,
+  "tags": ["Programming", "Scratch", "Beginner"]
+},
   {
     "id": "2",
     "title": "Data Structures",

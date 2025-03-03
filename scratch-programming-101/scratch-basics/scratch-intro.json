@@ -1,0 +1,14 @@
+{
+  "id": "scratch-intro",
+  "type": "SLIDE",
+  "content": {
+    "title": "Introduction to Scratch",
+    "description": "Learn the basics of Scratch programming and what you can create with it.",
+    "embedUrl": "https://docs.google.com/presentation/d/e/2PACX-1vTJwZmNyyefRfTccgMPTEl56_hM1cMdqOxFrESck2dn1i9LMtPK8uKLYyzBQ-9t1ypWls16K2a1PDiI/embed?start=false&loop=false&delayms=3000",
+    "width": 960,
+    "height": 569,
+    "totalSlides": 15,
+    "downloadPdfUrl": "https://docs.google.com/presentation/d/1abc123def456/export/pdf",
+    "notes": "This presentation covers the core concepts of Scratch and its basic functionality."
+  }
+}

@@ -48,47 +48,5 @@
         }
       ]
     },
-    {
-      "id": "scratch-programming",
-      "title": "Programming Concepts in Scratch",
-      "order": 2,
-      "lessons": [
-        {
-          "id": "loops-intro",
-          "title": "Introduction to Loops",
-          "order": 1,
-          "type": "SLIDE",
-          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/loops-intro.json"
-        },
-        {
-          "id": "conditional-blocks",
-          "title": "Using Conditional Blocks",
-          "order": 2,
-          "type": "VIDEO",
-          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/conditional-blocks.json"
-        },
-        {
-          "id": "variables",
-          "title": "Working with Variables",
-          "order": 3,
-          "type": "MARKDOWN",
-          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/variables.json"
-        },
-        {
-          "id": "simple-game",
-          "title": "Building a Simple Game",
-          "order": 4,
-          "type": "EXERCISE",
-          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/simple-game.json"
-        },
-        {
-          "id": "programming-concepts-quiz",
-          "title": "Programming Concepts Quiz",
-          "order": 5,
-          "type": "TEST",
-          "contentUrl": "https://raw.githubusercontent.com/1997MarsRover/OffTutor-Modules/main/scratch-programming-101/scratch-programming/programming-concepts-quiz.json"
-        }
-      ]
-    }
   ]
 }
